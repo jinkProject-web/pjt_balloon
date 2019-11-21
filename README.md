@@ -14,7 +14,9 @@
 
 + 개발 환경
 
-Language : JavaScript
+  - Language : JavaScript
+  
+
 
 
 
