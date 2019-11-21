@@ -14,10 +14,19 @@
 
 + 개발 환경
 
-Language : JavaScript
+  - Language : JavaScript
+  
+  ![archi](./img/archi.PNG)
+  
++ 구현 화면
 
 
+  
+![kanban](./img/kanban.jpg)
 
+![chatting](./img/chatting.png)
+
+![setting](./img/setting.png)
 
 
 
