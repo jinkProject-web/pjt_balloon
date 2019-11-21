@@ -21,7 +21,7 @@
 + 구현 화면
 
 
-  
+![main](./img/main.png)  
 ![kanban](./img/kanban.jpg)
 
 ![chatting](./img/chatting.png)
