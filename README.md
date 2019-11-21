@@ -8,7 +8,7 @@
 + Project 개요 : 
   - 개인/Team Project 생성 및 관리 기능 (KanbanBoard 형식)
   - 팀원 간 소통을 위한 채팅 기능 지원
-  - 개인 To do list 일정 관리 기능
+  - 개인 To do list 일정 관리 기능(추가 예정)
   - 개인별 설정변경 기능 
 
 + Project 인원 : 4명
