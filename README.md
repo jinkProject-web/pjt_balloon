@@ -16,10 +16,17 @@
 
   - Language : JavaScript
   
+  ![archi](./img/archi.PNG)
+  
++ 구현 화면
 
+![main](./img/main.png)
+  
+![kanban](./img/kanban.jpg)
 
+![chatting](./img/chatting.png)
 
-
+![setting](./img/setting.png)
 
 
 
